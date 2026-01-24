@@ -47,11 +47,11 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Facility Management System
-- Backend: Spring Boot, PostgreSQL
-- Role-based access (Admin, Manager, Student)
-- Equipment lifecycle: borrow, maintenance, liquidation  
-👉 [View Repository]([https://github.com/USERNAME/REPO_NAME](https://github.com/KhangPham205/kt-social-network-ai-backend))
+### 🔹 Social Network Server intergrated with AI
+- Backend: Spring Boot, PostgreSQL, Milvus
+- Role-based access (Admin, Manager, User)
+- AI: Moderation & Recommendation
+👉 [View Repository](https://github.com/KhangPham205/kt-social-network-ai-backend)
 
 ### 🔹 Food Ordering App (Android + Backend)
 - Android (Kotlin) frontend
