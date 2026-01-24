@@ -6,7 +6,7 @@
 
 🎓 Software Engineering student  
 💻 Backend Developer | Spring Boot | Android (Kotlin)  
-🚀 Interested in DevOps, Cloud & System Design  
+🚀 Interested in AI, DevOps, Cloud & System Design 
 
 ---
 
@@ -29,13 +29,20 @@
 - Basic HTML, CSS, JavaScript  
 
 **Database**
-- PostgreSQL, MySQL  
+- PostgreSQL, MySQL
+- Milvus, Minio
+- Neo4j
 
 **DevOps & Tools**
 - Docker, Git, GitHub Actions (CI/CD)
 - Render, Azure
 - Postman, IntelliJ IDEA
 
+**AI**
+- TensorFlow, OpenCV, FastAPI
+- CrewAI, HuggingFace
+- Ollama: LLM & SLM
+- PyCharm
 ---
 
 ## 📌 Featured Projects
