@@ -50,7 +50,7 @@
 ### 🔹 Social Network Server intergrated with AI
 - Backend: Spring Boot, PostgreSQL, Milvus
 - Role-based access (Admin, Manager, User)
-- AI: Moderation & Recommendation
+- AI: Moderation & Recommendation  
 👉 [View Repository](https://github.com/KhangPham205/kt-social-network-ai-backend)
 
 ### 🔹 Food Ordering App (Android + Backend)
