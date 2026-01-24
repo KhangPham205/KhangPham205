@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋 I'm Khang Pham Tuan from UIT-VNUHCM
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-<!--
-**KhangPham205/KhangPham205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Software Engineering student  
+💻 Backend Developer | Spring Boot | Android (Kotlin)  
+🚀 Interested in DevOps, Cloud & System Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 🎯 Currently focusing on **Backend Development with Spring Boot**
+- 🛠 Building APIs, authentication systems, and real-world applications
+- ☁️ Learning **Docker, CI/CD, Cloud deployment (Render, Azure)**
+- 📈 Aim: become a **Full-stack / Backend Engineer**
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Java, Spring Boot, Spring Security, JPA / Hibernate  
+- RESTful API, SSE, JWT  
+
+**Frontend / Mobile**
+- Android (Kotlin)
+- Basic HTML, CSS, JavaScript  
+
+**Database**
+- PostgreSQL, MySQL  
+
+**DevOps & Tools**
+- Docker, Git, GitHub Actions (CI/CD)
+- Render, Azure
+- Postman, IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Facility Management System
+- Backend: Spring Boot, PostgreSQL
+- Role-based access (Admin, Manager, Student)
+- Equipment lifecycle: borrow, maintenance, liquidation  
+👉 [View Repository]([https://github.com/USERNAME/REPO_NAME](https://github.com/KhangPham205/kt-social-network-ai-backend))
+
+### 🔹 Food Ordering App (Android + Backend)
+- Android (Kotlin) frontend
+- Spring Boot backend
+- Cart, Order, Promotion, Payment (VNPAY)  
+👉 [View Repository](https://github.com/UIT-MAM/MAM)
+
+---
+
+## 📊 GitHub Stats
+
+![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhangPham205&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham205&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: ptkhang17122005@gmail.com
+- 📧 Email Edu: 23520707@gm.uit.edu.vn
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/khang-ph%E1%BA%A1m-tu%E1%BA%A5n-0503b5286/?trk=opento_sprofile_goalscard)
+- 🌐 Portfolio (optional): coming soon...
