@@ -60,14 +60,12 @@
 👉 [View Repository](https://github.com/UIT-MAM/MAM)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhangPham205&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhangPham205&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhangPham205&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhangPham205&layout=compact&theme=tokyonight" width="375"/>
+</p>
 
 ## 📫 Contact Me
 - 📧 Email: ptkhang17122005@gmail.com
