@@ -5,7 +5,7 @@
 
 
 🎓 Software Engineering student  
-💻 Backend Developer | Spring Boot | Android (Kotlin)  
+💻 Backend Developer | Spring Boot
 🚀 Interested in AI, DevOps, Cloud & System Design 
 
 ---
@@ -71,4 +71,4 @@
 - 📧 Email: ptkhang17122005@gmail.com
 - 📧 Email Edu: 23520707@gm.uit.edu.vn
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/khang-ph%E1%BA%A1m-tu%E1%BA%A5n-0503b5286/?trk=opento_sprofile_goalscard)
-- 🌐 Portfolio (optional): coming soon...
+- 🌐 Portfolio: [portfolio_link](https://my-portfolio-opal-kappa-49.vercel.app/)
